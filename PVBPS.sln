@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex1-Keylogger", "Ex1-Keylog
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex2-Keylogger", "Ex2-Keylogger\Ex2-Keylogger.csproj", "{6CAFD207-BC9B-47C8-A71E-CC1EAB437ADF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex3-AlternateStream", "Ex3-AlternateStream\Ex3-AlternateStream.csproj", "{7B2C20B4-D39C-4F2D-A35F-E4B1EB066B49}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{6CAFD207-BC9B-47C8-A71E-CC1EAB437ADF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6CAFD207-BC9B-47C8-A71E-CC1EAB437ADF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6CAFD207-BC9B-47C8-A71E-CC1EAB437ADF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B2C20B4-D39C-4F2D-A35F-E4B1EB066B49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B2C20B4-D39C-4F2D-A35F-E4B1EB066B49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B2C20B4-D39C-4F2D-A35F-E4B1EB066B49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B2C20B4-D39C-4F2D-A35F-E4B1EB066B49}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
